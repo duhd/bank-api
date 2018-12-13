@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 # encoding: utf-8
+# Bank API simulator
 
 require 'sinatra'
 require 'json'
